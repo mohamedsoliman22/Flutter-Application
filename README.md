@@ -1,16 +1,8 @@
-# flutter_application_787980
+# flutter_application
 
-A new Flutter project.
+This is a Flutter app project. It is a mobile app for sports equipment / product management, with:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+main.dart as the app entry
+pages for UI screens including navigation and home
+database for local data storage and user handling
+product.dart for product data structure
