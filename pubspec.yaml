@@ -1,0 +1,66 @@
+name: flutter_application_787980
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  shared_preferences: ^2.2.2
+  fluttertoast: ^8.2.2
+  excel: ^2.1.0
+  open_file: ^3.3.2
+  share_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/about/banner.jpg
+    - assets/images/about/logo.jpg
+    - assets/images/intro/logo.jpg
+    - assets/images/product/shoes.jpg
+    - assets/images/product/Tshirt.jpg  
+    - assets/images/product/watch.jpg
+    - assets/images/product/yoga.jpg
+    - assets/images/product/football.jpg
+    - assets/images/product/basketball.jpg
+    - assets/images/product/GolfEquipment.jpg
+    - assets/images/product/AmericanFootball.jpg
+    - assets/images/product/Baseball Football.jpg
+    - assets/images/product/baseball-bat.jpg
+    - assets/images/product/Tennis Bat.jpg
+    - assets/images/product/Tennis Racket.jpg
+    - assets/images/product/Tennis Ball.jpg
+    - assets/images/product/Men's Tracksuit.jpg
+    - assets/images/product/Men'stracksuit gray.jpg
+    - assets/images/product/GymClothes.jpg
+    - assets/images/product/cyclingwear.jpg
+    - assets/images/product/Al Ahli Tshirt.jpg
+    - assets/images/product/Alahli CAP.jpg
+  
+    
+
+
+
+  
+
+    
+
+
